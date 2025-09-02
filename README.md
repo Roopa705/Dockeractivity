@@ -3,7 +3,7 @@
 3. Run the command - docker compose up
 4. A new container is created and will be visible in the containers tab.
 
-I gained hands-on experience in:
-    Running PostgreSQL in a container.
-    Building and containerizing a Python Flask app.
-    Using Redis as a caching service.
+I gained hands-on experience in: 
+1. Running PostgreSQL in a container.
+2. Building and containerizing a Python Flask app.
+3. Using Redis as a caching service.
